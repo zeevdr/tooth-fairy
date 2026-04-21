@@ -19,7 +19,7 @@ const TOOTH_FAIRY_DATA = {
 
   // ---------- User profile (logged-in avatar) ----------
   user: {
-    name: "נסיכה",           // change to your daughter's name
+    name: "אביגיל",           // change to your daughter's name
     avatar: "👧",             // emoji OR URL to image (https://...)
     teethBalance: 7,          // current teeth the user has to spend
     showBalance: true         // show tooth count next to avatar?
